@@ -265,8 +265,8 @@ adk
 m <- nma(adk)
 ```
 
-     Building Hessian...        Done in 0.038 seconds.
-     Diagonalizing Hessian...   Done in 0.67 seconds.
+     Building Hessian...        Done in 0.031 seconds.
+     Diagonalizing Hessian...   Done in 0.346 seconds.
 
 ``` r
 plot(m)
